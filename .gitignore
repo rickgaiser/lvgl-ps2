@@ -1,0 +1,4 @@
+lvgl/
+*.o
+*.elf
+*.map
